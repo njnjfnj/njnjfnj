@@ -42,9 +42,10 @@ Based in **Cherkasy, Ukraine** 🇺🇦
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=njnjfnj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Serhii's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njnjfnj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/njnjfnj/stats/master/generated/overview.svg#gh-light-mode-only" width=50%>
+  <img src="https://raw.githubusercontent.com/njnjfnj/stats/master/generated/languages.svg#gh-light-mode-only" width=50%>
+
+
 </div>
 
 ---
