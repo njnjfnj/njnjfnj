@@ -50,7 +50,6 @@ Based in **Cherkasy, Ukraine** 🇺🇦
     </td>
   </tr>
 </table>
----
 
 ### 📫 Connect with me
 
