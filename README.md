@@ -36,21 +36,3 @@ Based in **Cherkasy, Ukraine** 🇺🇦
 ![Google Sheets](https://img.shields.io/badge/google_sheets-%23202124.svg?style=for-the-badge&logo=google-sheets&logoColor=34A853)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Fyne](https://img.shields.io/badge/Fyne-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-       <img src="https://raw.githubusercontent.com/njnjfnj/stats/master/generated/overview.svg#gh-light-mode-only" width=120%>
-    </td>
-    <td width="50%" align="center">
-       <img src="https://raw.githubusercontent.com/njnjfnj/stats/master/generated/languages.svg#gh-light-mode-only" width=120%>
-    </td>
-  </tr>
-</table>
-
-### 📫 Connect with me
-
-Use the Issues tab in my repositories to get in touch or contribute to my open-source projects!
