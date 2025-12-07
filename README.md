@@ -36,3 +36,9 @@ Based in **Cherkasy, Ukraine** 🇺🇦
 ![Google Sheets](https://img.shields.io/badge/google_sheets-%23202124.svg?style=for-the-badge&logo=google-sheets&logoColor=34A853)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Fyne](https://img.shields.io/badge/Fyne-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Languages](https://github.com/njnjfnj/stats/blob/master/generated/languages.svg)
+![Overview](https://github.com/njnjfnj/stats/blob/master/generated/overview.svg)
