@@ -40,14 +40,16 @@ Based in **Cherkasy, Ukraine** 🇺🇦
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/njnjfnj/stats/master/generated/overview.svg#gh-light-mode-only" width=50%>
-  <img src="https://raw.githubusercontent.com/njnjfnj/stats/master/generated/languages.svg#gh-light-mode-only" width=50%>
-
-
-</div>
-
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+       <img src="https://raw.githubusercontent.com/njnjfnj/stats/master/generated/overview.svg#gh-light-mode-only" width=120%>
+    </td>
+    <td width="50%" align="center">
+       <img src="https://raw.githubusercontent.com/njnjfnj/stats/master/generated/languages.svg#gh-light-mode-only" width=120%>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📫 Connect with me
