@@ -8,7 +8,7 @@ Based in **Cherkasy, Ukraine** 🇺🇦
 
 ### 🚀 What I'm up to
 
-- 🔭 I’m currently working on **Local Mail**, a secure P2P LAN messenger using **Golang** and **Fyne** (UDP/TCP/TLS).
+- 🔭 I’m currently working as freelancer on <a href="https://freelancehunt.com/freelancer/ilin06serhii.html">freelancehunt</a>
 - 🌱 I’m currently learning **Machine Learning** and **Data Science**.
 - ⚙️ I love building tools that optimize workflows and ensure security.
 
