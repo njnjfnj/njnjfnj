@@ -38,6 +38,10 @@ Based in **Cherkasy, Ukraine** 🇺🇦
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Fyne](https://img.shields.io/badge/Fyne-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+**Embedded**
+![Arduino](https://img.shields.io/badge/-Arduino-%2300979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+
 ---
 
 ### 📊 GitHub Stats
