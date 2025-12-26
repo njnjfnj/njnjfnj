@@ -34,7 +34,6 @@ Based in **Cherkasy, Ukraine** 🇺🇦
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/google_sheets-%23202124.svg?style=for-the-badge&logo=google-sheets&logoColor=34A853)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Fyne](https://img.shields.io/badge/Fyne-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
