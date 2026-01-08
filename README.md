@@ -40,9 +40,3 @@ Based in **Cherkasy, Ukraine** 🇺🇦
 **Embedded**
 ![Arduino](https://img.shields.io/badge/-Arduino-%2300979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![Languages](https://github.com/njnjfnj/stats/blob/master/generated/languages.svg)
-![Overview](https://github.com/njnjfnj/stats/blob/master/generated/overview.svg)
