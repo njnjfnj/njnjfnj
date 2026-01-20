@@ -1,4 +1,4 @@
-# Hi there, I'm Serhii! 👋
+# Hi there 👋
 
 I am a student at the **Institute of Applied System Analysis** (Igor Sikorsky Kyiv Polytechnic Institute), passionate about low-level programming, network security, computational algorithms, data science. I am currently working as a freelancer at <a href='https://freelancehunt.com/freelancer/ilin06serhii.html'>freelancehunt</a>.
 
