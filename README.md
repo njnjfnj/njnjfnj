@@ -1,8 +1,4 @@
-### Ilhin Serhii
-
 Undergraduate student (4 year) at the **Institute of Applied System Analysis** (Igor Sikorsky Kyiv Polytechnic Institute), passionate about low-level programming, computational algorithms, data science, FPGA digital design.
-
-Based in **Cherkasy, Ukraine** 🇺🇦
 
 ---
 
