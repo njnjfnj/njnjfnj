@@ -12,6 +12,7 @@ Based in **Cherkasy, Ukraine** 🇺🇦
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%231E4D8C.svg?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-%236E4C13.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -33,5 +34,5 @@ Based in **Cherkasy, Ukraine** 🇺🇦
 **FPGA & Embedded**
 ![Intel/Altera](https://img.shields.io/badge/Intel_Altera-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white)
 ![Quartus Prime](https://img.shields.io/badge/Quartus_Prime-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-%2300979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Atmel](https://img.shields.io/badge/Atmel-%23005A9C.svg?style=for-the-badge&logo=microchip&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
