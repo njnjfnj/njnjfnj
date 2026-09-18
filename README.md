@@ -1,6 +1,6 @@
-# Hi there 👋
+# Ilhin Serhii
 
-I am a student at the **Institute of Applied System Analysis** (Igor Sikorsky Kyiv Polytechnic Institute), passionate about low-level programming, network security, computational algorithms, data science. I am currently working as a freelancer.
+Undergraduate 4 year student at the **Institute of Applied System Analysis** (Igor Sikorsky Kyiv Polytechnic Institute), passionate about low-level programming, computational algorithms, data science, and FPGA digital design.
 
 Based in **Cherkasy, Ukraine** 🇺🇦
 
@@ -9,11 +9,12 @@ Based in **Cherkasy, Ukraine** 🇺🇦
 ### 🛠️ Technologies & Tools
 
 **Languages**
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%231E4D8C.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **Data Science & ML**
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -29,6 +30,8 @@ Based in **Cherkasy, Ukraine** 🇺🇦
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Fyne](https://img.shields.io/badge/Fyne-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**Embedded**
+**FPGA & Embedded**
+![Intel/Altera](https://img.shields.io/badge/Intel_Altera-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white)
+![Quartus Prime](https://img.shields.io/badge/Quartus_Prime-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-%2300979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
